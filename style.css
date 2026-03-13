@@ -1,0 +1,79 @@
+body{
+    font-family: "Mincraft";
+    background-color: rgb(248, 30, 30);
+    
+}
+@font-face {
+        font-family: "Mincraft" ;
+        src: url("Minecraftia.ttf");
+    }
+h1{
+    
+    text-align: center;
+    font-size: 80px;
+    color: #fcac00;
+}
+h2{
+    
+    text-align: center;
+    color: #5eff00d8;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+    color: rgb(255, 255, 255);
+}
+
+.subtitulo{
+    color: #f8fc00;
+}
+
+.img-01{
+    text-align: center;
+}
+.img-02{
+   text-align: center;
+}
+.img-03{
+    text-align: center;
+}
+.img-04{
+    text-align: center;
+}
+ol{
+    font-size: 22px;
+    color: aliceblue;
+}
+h4{
+    font-size: 28px;
+    color: #e700fcd8;
+}
+h5{
+    font-size: 22px;
+    color: #00ffffd8;
+}
+.vd1{
+    text-align: center;
+}
+.vd2{
+    text-align: center;
+    vertical-align: 20px;
+}
+.vd3{
+    text-align: center;
+    vertical-align: 20px;
+}
+.vd4{
+    text-align: center;
+    vertical-align: 20px;
+    
+}
+.vd5{
+    text-align: center;
+}
+.vd6{
+    text-align: center;
+}
+.olv{
+    text-align: left ;
+}
