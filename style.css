@@ -1,6 +1,6 @@
 body{
     font-family: "Mincraft";
-    background-color: rgb(248, 30, 30);
+    background-image: url(img5.png);
     
 }
 @font-face {
@@ -40,7 +40,7 @@ h3{
 .img-04{
     text-align: center;
 }
-ol{
+ul{
     font-size: 22px;
     color: aliceblue;
 }
@@ -52,28 +52,10 @@ h5{
     font-size: 22px;
     color: #00ffffd8;
 }
-.vd1{
-    text-align: center;
-}
-.vd2{
-    text-align: center;
-    vertical-align: 20px;
-}
-.vd3{
-    text-align: center;
-    vertical-align: 20px;
-}
-.vd4{
-    text-align: center;
-    vertical-align: 20px;
-    
-}
-.vd5{
-    text-align: center;
-}
-.vd6{
-    text-align: center;
-}
+
 .olv{
     text-align: left ;
+}
+div{
+    text-align: center;
 }
